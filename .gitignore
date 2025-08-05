@@ -18,3 +18,4 @@ venv/
 venvdash/
 .DS_Store
 .env
+fns_data_load.ipynb
